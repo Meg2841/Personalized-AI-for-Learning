@@ -122,6 +122,40 @@ A student is preparing for a presentation on global water scarcity. Perplexity c
 | Primary Limitation | Needs clear prompts | Slower processing | Limited analytical depth |
 
 ---
+## A Study on AI Tools
+### Summary of the Paper
+
+This study, "A Comparative Analysis of AI Models in Complex Medical Decision-Making Scenarios," evaluates the performance of various AI tools, including ChatGPT, Claude AI, Google Bard, and Perplexity. The research focuses on key metrics such as:
+
+- **Accuracy**: How correct and precise the responses are.
+- **Relevance**: How pertinent the responses are to specific decision-making contexts.
+- **Clarity**: How understandable and clear the generated content is.
+- **Completeness**: How comprehensive and thorough the responses are.
+
+The paper uses statistical techniques, including ANOVA and correlation analysis, to assess relationships between metrics and performance consistency across models.
+Link to the paper: https://assets.cureus.com/uploads/technical_report/pdf/222034/20240217-32655-yx9bhv.pdf
+---
+![image](https://github.com/user-attachments/assets/c3182547-6525-4365-9697-8b8dd35fe793)
+
+The table presents the **statistical analysis results** of the study. Key elements are:
+
+1. **ANOVA (Analysis of Variance):**
+   - Used to assess whether significant differences exist between the models for each metric.
+   - Metrics evaluated: Accuracy, Relevance, Clarity, and Completeness.
+   - Notable results:
+     - For **Relevance**, the p-value is **0.03**, indicating a statistically significant difference among the models.
+     - Other metrics (Accuracy, Clarity, Completeness) show higher p-values (> 0.05), suggesting no statistically significant differences.
+
+2. **Correlation Analysis:**
+   - Measures the strength and direction of relationships between Accuracy and other metrics (Relevance, Clarity, Completeness) for each tool.
+   - Key findings:
+     - **ChatGPT**: Weak correlations across metrics (e.g., Accuracy vs. Relevance: r = 0.12, p = 0.68).
+     - **Claude AI**: Slight positive correlation with Clarity (r = 0.36, p = 0.19) but not statistically significant.
+     - **Google Bard**: Significant correlation between Accuracy and Relevance (r = 0.55, p = 0.03), indicating Relevance improves with higher Accuracy.
+     - **Perplexity AI**: Weak or no correlation across metrics.
+
+The table provides an overview of model performance differences and inter-metric relationships, highlighting where statistical significance was achieved.
+---
 
 ## Ethical Considerations
 AI tools raise important ethical issues in academic use.  

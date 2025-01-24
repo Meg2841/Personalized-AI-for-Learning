@@ -40,6 +40,8 @@ Someone is struggling with an assignment on digital marketing strategies. ChatGP
 - Responses may sometimes lack depth for advanced topics.  
 - Requires carefully worded prompts for specific answers.  
 - May occasionally produce incorrect information.
+![image](https://github.com/user-attachments/assets/23268217-ada5-44c4-b868-82f8b020d6a6)
+
 
 ---
 
@@ -74,6 +76,7 @@ Suppose a student needs to analyze two research papers on the effects of AI in h
 **Cons:**  
 - Slower than tools designed for simple, quick tasks.  
 - Requires detailed queries to provide accurate insights.  
+![image](https://github.com/user-attachments/assets/9afa44fd-e3e7-4baf-b4e0-8d9eed358bb0)
 
 ---
 
@@ -108,6 +111,7 @@ A student is preparing for a presentation on global water scarcity. Perplexity c
 **Cons:**  
 - Limited interactivity compared to conversational tools.  
 - May not offer deeper insights or analysis for complex queries.  
+![image](https://github.com/user-attachments/assets/885ed519-a7ef-416d-b544-e4883f1199fe)
 
 ---
 
@@ -154,18 +158,8 @@ The table presents the **statistical analysis results** of the study. Key elemen
      - **Google Bard**: Significant correlation between Accuracy and Relevance (r = 0.55, p = 0.03), indicating Relevance improves with higher Accuracy.
      - **Perplexity AI**: Weak or no correlation across metrics.
 
-The table provides an overview of model performance differences and inter-metric relationships, highlighting where statistical significance was achieved.
----
+#### The table provides an overview of model performance differences and inter-metric relationships, highlighting where statistical significance was achieved.
 
-## Ethical Considerations
-AI tools raise important ethical issues in academic use.  
-1. **Plagiarism:** AI-generated content may be used without proper credit, violating academic integrity. Always cite AI tools when used for assignments.  
-2. **Accuracy:** AI tools can provide incorrect or biased information. Students should verify outputs, especially for critical research.  
-3. **Dependence on AI:** Over-reliance on tools can reduce opportunities to develop independent thinking skills. Balance AI use with personal effort to learn effectively.
-
-These concerns highlight the need for responsible use of AI in academics. It is essential to treat these tools as support systems, not replacements for learning.
-
----
 ### Study on Custom GPT Feature in ChatGPT
 
 The **Custom GPT feature** in ChatGPT allows users to create specialized AI models tailored to their specific needs. Unlike standard ChatGPT, these models can be programmed to focus on particular tasks, streamline processes, and provide more personalized outputs without needing repeated instructions. Users can define instructions, upload datasets, or integrate these GPTs into workflows, making them incredibly versatile for various applications, including job hunting and interview preparation.
@@ -211,8 +205,21 @@ With Custom GPTs, I no longer need to provide the same instructions repeatedly. 
 - **Improved Confidence**: Mock interviews with **Interview Prep GPT** have helped me practice effectively, boosting my confidence for real-world interviews.
 - **Enhanced Personalization**: Tailoring resumes and cover letters has become much easier with AI understanding the nuances of job descriptions.
 
-These tools are not only practical but have also significantly improved my productivity, allowing me to focus more on preparing for interviews and less on administrative tasks.
+I uploaded a sample resume of mine to a custom GPT which scores your resume, it acts like ATS, to which I received the below response.
 
+![image](https://github.com/user-attachments/assets/3895782f-87c6-4a47-abf9-ef787f9a9bef)
+
+
+These tools are not only practical but have also significantly improved my productivity, allowing me to focus more on preparing for interviews and less on administrative tasks.
+---
+
+## Ethical Considerations
+AI tools raise important ethical issues in academic use.  
+1. **Plagiarism:** AI-generated content may be used without proper credit, violating academic integrity. Always cite AI tools when used for assignments.  
+2. **Accuracy:** AI tools can provide incorrect or biased information. Students should verify outputs, especially for critical research.  
+3. **Dependence on AI:** Over-reliance on tools can reduce opportunities to develop independent thinking skills. Balance AI use with personal effort to learn effectively.
+
+These concerns highlight the need for responsible use of AI in academics. It is essential to treat these tools as support systems, not replacements for learning.
 ---
 
 ## Conclusion

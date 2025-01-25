@@ -1,6 +1,6 @@
 # Personalized AI for Learning - My Learning Experience
 
-# Unlocking Academic Success with AI: Exploring ChatGPT, Claude, and Perplexity
+# Exploring ChatGPT, Claude, and Perplexity
 
 ## Introduction
 The rise of AI tools has changed how students access resources, manage learning, and solve problems. These tools help simplify tasks, making it easier to focus on understanding concepts and completing assignments efficiently. This article explores three widely-used AI tools—ChatGPT, Claude, and Perplexity. By breaking down their features, practical use cases, and limitations, this guide aims to show how they can support academic success.
